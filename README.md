@@ -1,6 +1,8 @@
 ﻿Here’s a template for README.md file based on my project:
 Command-Line Password Manager
+
 Video Demo: [[YouTube Video Demo: ](https://youtu.be/WVfHjU1aaa0)]
+
 Description:
 
 This project is a command-line password manager written in C that allows users to securely store, retrieve, and delete passwords for different services. The program utilizes basic XOR encryption for securing passwords, making it a useful tool for managing credentials on the fly in a secure manner.
